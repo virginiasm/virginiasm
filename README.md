@@ -1,4 +1,5 @@
-# Hi! My name is Virgínia Müller!!! <img align="center" alt="vi-yoda" height="60" width="80" src="https://media.tenor.com/images/4f20af75f32887384aab7e49c37537ae/tenor.gif">
+Hello 👋,
+I'm Virgínia. Graduation in progress in Computer Engineering at PUCRS. I am currently doing an internship in software research and development. <img align="center" alt="vi-yoda" height="60" width="80" src="https://media.tenor.com/images/4f20af75f32887384aab7e49c37537ae/tenor.gif">
 
 <a href="https://github.com/virginiasm">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=virginiasm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
